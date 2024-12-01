@@ -17,8 +17,3 @@ packages:
   gitUrl: https://github.webmethods.io/kvv
   gitUsername: kvv
   gitBranch: main
-- name: PackageA
-  gitServerName: siqagituser
-  gitUrl: https://github.com/prabhakarsag
-  gitUsername: siqagituser
-  gitBranch: main
